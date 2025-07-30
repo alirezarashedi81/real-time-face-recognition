@@ -1,2 +1,16 @@
-# real-time-face-recognition
-Real-time face recognition system using YOLOv8 for face detection, FaceNet for embedding generation, and an SVM classifier for identity prediction — all integrated with webcam support.
+# 🎯 Real-Time Face Recognition with YOLOv8 + FaceNet + SVM
+
+A powerful real-time face recognition system using:
+- 🔍 YOLOv8 for face detection
+- 🧠 Keras-FaceNet for generating face embeddings
+- 🤖 SVM classifier for identity recognition
+
+## 🚀 Features
+- Real-time detection using webcam
+- Fast embedding with FaceNet
+- Robust classification with SVM
+- Modular, clean structure for reuse
+
+## 🛠️ Setup
+```bash
+pip install -r requirements.txt
