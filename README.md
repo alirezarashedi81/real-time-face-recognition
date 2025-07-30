@@ -1,6 +1,3 @@
-Here’s a more complete and polished version of your README, including usage instructions and notes about using embeddings instead of a full dataset:
-
----
 
 # 🎯 Real-Time Face Recognition with YOLOv8 + FaceNet + SVM
 
